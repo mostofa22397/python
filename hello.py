@@ -1,0 +1,5 @@
+print(3+5)
+print(4+5)
+print(64+5)
+print(45+5)
+print(45+5)
